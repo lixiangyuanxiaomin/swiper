@@ -1,0 +1,16 @@
+//ÂÖ²¥
+		  var mySwiper = new Swiper('.swiper-container',{
+		    pagination: '.pagination',
+		    createPagination :true,
+		    paginationClickable :true,
+		    loop:true,
+		    autoplay:1000,
+    		autoplayDisableOnInteraction:false,
+		    grabCursor: true,
+		    paginationClickable: true,
+
+	  })
+
+
+
+

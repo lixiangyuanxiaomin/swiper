@@ -1,0 +1,11 @@
+  <div class="swiper-container"id="loop" >
+				      	<div class="swiper-wrapper"id="list">
+				        	<div class="swiper-slide list_l"></div>
+				       	 	<div class="swiper-slide list_l"></div>
+				       	 	<div class="swiper-slide list_l"></div>
+				       	 	<div class="swiper-slide list_l"></div>
+				       	 	<div class="swiper-slide list_l"></div>
+				       	 
+				      	</div>
+				      	<div class="pagination"></div>
+   </div>
